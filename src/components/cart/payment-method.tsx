@@ -136,7 +136,7 @@ export function PaymentMethod({ form }: PaymentMethodProps) {
             <div className="mt-4 flex justify-center">
               <div className="bg-white p-2 rounded-lg shadow-sm">
                 <Image
-                  src="/images/qr-code-payment.jpeg"
+                  src="/mbbank_qr.jpeg"
                   alt="QR Code thanh toán MB Bank"
                   width={200}
                   height={200}
