@@ -1,0 +1,1305 @@
+[
+  {
+    "id": 1,
+    "name": "Bạc Thanh Long Phú Quý 999 1L",
+    "code": "BTLPQ1L",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thành Long",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-30",
+    "images": [
+      "/images/products/BTLPQ1L.png",
+      "/images/products/BTLPQ1L.png",
+      "/images/products/BTLPQ1L.png"
+    ],
+    "description": "Bạc Thanh Long Phú Quý 999 1L là sản phẩm bạc mỹ nghệ cao cấp với độ tinh khiết 99.9%. Được chế tác tỉ mỉ với hình ảnh rồng thăng long, mang ý nghĩa phong thủy tốt lành, thịnh vượng và may mắn.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Kích thước": "50mm x 30mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế rồng thăng long độc đáo",
+      "Gia công thủ công tinh xảo",
+      "Bảo hành chính hãng 12 tháng",
+      "Giấy chứng nhận chất lượng",
+      "Hộp đựng sang trọng"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bạc miếng Phú Quý 999 1L",
+    "code": "BPQ1L",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-29",
+    "images": [
+      "/images/products/BPQ1L.png",
+      "/images/products/BPQ1L.png",
+      "/images/products/BPQ1L.png"
+    ],
+    "description": "Bạc miếng Phú Quý 999 1L với thiết kế đơn giản, tinh tế. Sản phẩm được chế tác từ bạc nguyên chất 99.9%, phù hợp cho việc đầu tư và tích trữ giá trị.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Kích thước": "45mm x 25mm x 2mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế đơn giản, tinh tế",
+      "Phù hợp đầu tư và tích trữ",
+      "Bảo hành chính hãng 12 tháng",
+      "Giấy chứng nhận chất lượng",
+      "Bao bì bảo quản chuyên dụng"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bạc Thanh Long Phú Quý 999 5L",
+    "code": "BTL5L",
+    "weight": "50.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thành Long",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-28",
+    "images": [
+      "/images/products/BTL5L.png",
+      "/images/products/BTL5L.png",
+      "/images/products/BTL5L.png"
+    ],
+    "description": "Bạc Thanh Long Phú Quý 999 5L với trọng lượng lớn, phù hợp cho những ai muốn đầu tư số lượng nhiều. Thiết kế rồng thăng long uy quyền, mang lại may mắn và thịnh vượng.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "50.0 Chỉ",
+      "Kích thước": "80mm x 50mm x 5mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Trọng lượng lớn 50 chỉ",
+      "Thiết kế rồng thăng long uy quyền",
+      "Phù hợp đầu tư số lượng lớn",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng cao cấp"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bạc thỏi Phú Quý 999 5L",
+    "code": "BPQ5L",
+    "weight": "50.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-27",
+    "images": [
+      "/images/products/BPQ5L.png",
+      "/images/products/BPQ5L.png"
+    ],
+    "description": "Bạc thỏi Phú Quý 999 5L với hình dáng thỏi truyền thống, dễ dàng bảo quản và vận chuyển. Sản phẩm lý tưởng cho việc đầu tư dài hạn.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "50.0 Chỉ",
+      "Kích thước": "100mm x 20mm x 10mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Hình dáng thỏi truyền thống",
+      "Dễ bảo quản và vận chuyển",
+      "Lý tưởng cho đầu tư dài hạn",
+      "Bảo hành chính hãng 12 tháng",
+      "Túi bảo quản chuyên dụng"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bạc thỏi Phú Quý 999 10L",
+    "code": "BPQ10L",
+    "weight": "100.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-26",
+    "images": [
+      "/images/products/BPQ10L.png",
+      "/images/products/BPQ10L.png"
+    ],
+    "description": "Bạc thỏi Phú Quý 999 10L với trọng lượng 100 chỉ, phù hợp cho việc đầu tư lớn. Thiết kế thỏi truyền thống, dễ dàng bảo quản và vận chuyển.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "100.0 Chỉ",
+      "Kích thước": "120mm x 25mm x 12mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Trọng lượng lớn 100 chỉ",
+      "Hình dáng thỏi truyền thống",
+      "Phù hợp đầu tư lớn",
+      "Bảo hành chính hãng 12 tháng",
+      "Túi bảo quản cao cấp"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bạc Thanh Long Phú Quý 999 1KG",
+    "code": "BTL1KG",
+    "weight": "266.666 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thành Long",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-25",
+    "images": [
+      "/images/products/BTL1KG.png",
+      "/images/products/BTL1KG.png"
+    ],
+    "description": "Bạc Thanh Long Phú Quý 999 1KG với trọng lượng 266.666 chỉ, sản phẩm đầu tư cao cấp. Thiết kế rồng thăng long uy quyền, mang lại may mắn và thịnh vượng.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "266.666 Chỉ (1KG)",
+      "Kích thước": "150mm x 80mm x 15mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Trọng lượng 1KG",
+      "Thiết kế rồng thăng long uy quyền",
+      "Sản phẩm đầu tư cao cấp",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng cao cấp"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Bạc thỏi Phú Quý 999 1KG",
+    "code": "BPQ1KG",
+    "weight": "266.666 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-24",
+    "images": [
+      "/images/products/BPQ1KG.png",
+      "/images/products/BPQ1KG.png"
+    ],
+    "description": "Bạc thỏi Phú Quý 999 1KG với trọng lượng 266.666 chỉ, sản phẩm đầu tư cao cấp. Hình dáng thỏi truyền thống, dễ dàng bảo quản và vận chuyển.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "266.666 Chỉ (1KG)",
+      "Kích thước": "200mm x 30mm x 20mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Trọng lượng 1KG",
+      "Hình dáng thỏi truyền thống",
+      "Sản phẩm đầu tư cao cấp",
+      "Bảo hành chính hãng 12 tháng",
+      "Túi bảo quản cao cấp"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bạch Ngân Đại Cát 1 lượng",
+    "code": "BPQRAN1L",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "discontinued",
+    "createdDate": "2025-07-23",
+    "images": [
+      "/images/products/BPQRAN1L.png",
+      "/images/products/BPQRAN1L.png"
+    ],
+    "description": "Bạch Ngân Đại Cát 1 lượng với thiết kế độc đáo, mang ý nghĩa phong thủy tốt lành. Sản phẩm được chế tác từ bạc nguyên chất 99.9%.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Kích thước": "50mm x 30mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế Bạch Ngân Đại Cát",
+      "Ý nghĩa phong thủy tốt lành",
+      "Bảo hành chính hãng 12 tháng",
+      "Giấy chứng nhận chất lượng",
+      "Hộp đựng sang trọng"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Đồng bạc Bát Bảo Cát Tường Phú Quý 5 chỉ",
+    "code": "BM.002",
+    "weight": "5.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-22",
+    "images": [
+      "/images/products/BM.002.png",
+      "/images/products/BM.002.png"
+    ],
+    "description": "Đồng bạc Bát Bảo Cát Tường Phú Quý 5 chỉ với thiết kế Bát Bảo truyền thống, mang ý nghĩa phong thủy tốt lành và may mắn.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "5.0 Chỉ",
+      "Kích thước": "40mm x 40mm x 2mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế Bát Bảo Cát Tường",
+      "Ý nghĩa phong thủy tốt lành",
+      "Trọng lượng 5 chỉ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng sang trọng"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Đồng bạc Liên Hoa Bồ Đề Phú Quý 1 Lượng",
+    "code": "BM1.001",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-07-21",
+    "images": [
+      "/images/products/BM1.001.png",
+      "/images/products/BM1.001.png"
+    ],
+    "description": "Đồng bạc Liên Hoa Bồ Đề Phú Quý 1 Lượng với thiết kế liên hoa bồ đề tinh xảo, mang ý nghĩa tâm linh và phong thủy tốt lành.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Kích thước": "50mm x 50mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế Liên Hoa Bồ Đề",
+      "Ý nghĩa tâm linh sâu sắc",
+      "Trọng lượng 1 lượng",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng sang trọng"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Đồng bạc Buffalo Matte 1 OZ Phú Quý (Bản mờ)",
+    "code": "BM1OZ",
+    "weight": "8.3 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-20",
+    "images": [
+      "/images/products/BM1OZ.png",
+      "/images/products/BM1OZ.png"
+    ],
+    "description": "Đồng bạc Buffalo Matte 1 OZ Phú Quý (Bản mờ) với thiết kế Buffalo truyền thống của Mỹ, bề mặt mờ sang trọng.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.3 Chỉ (1 OZ)",
+      "Kích thước": "39mm x 39mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế Buffalo truyền thống",
+      "Bề mặt mờ sang trọng",
+      "Trọng lượng 1 OZ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Đồng bạc Buffalo Proof 1 OZ Phú Quý (Bản bóng)",
+    "code": "BM1OZ02",
+    "weight": "8.3 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-19",
+    "images": [
+      "/images/products/BM1OZ02.png",
+      "/images/products/BM1OZ02.png"
+    ],
+    "description": "Đồng bạc Buffalo Proof 1 OZ Phú Quý (Bản bóng) với thiết kế Buffalo truyền thống của Mỹ, bề mặt bóng sang trọng.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.3 Chỉ (1 OZ)",
+      "Kích thước": "39mm x 39mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khi��t 99.9%",
+      "Thiết kế Buffalo truyền thống",
+      "Bề mặt bóng sang trọng",
+      "Trọng lượng 1 OZ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Đồng Bạc Britannia Charles III 1 OZ 2024",
+    "code": "BM1OZ03",
+    "weight": "8.3 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-18",
+    "images": [
+      "/images/products/BM1OZ03.png",
+      "/images/products/BM1OZ03.png"
+    ],
+    "description": "Đồng Bạc Britannia Charles III 1 OZ 2024 với thiết kế Britannia truyền thống của Anh, phiên bản 2024 với hình ảnh Vua Charles III.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.3 Chỉ (1 OZ)",
+      "Kích thước": "39mm x 39mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế Britannia truyền thống",
+      "Phiên bản Charles III 2024",
+      "Trọng lượng 1 OZ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Đồng Bạc Kangaroo 1 OZ 2024",
+    "code": "BM1OZ04",
+    "weight": "8.3 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-17",
+    "images": [
+      "/images/products/BM1OZ04.png",
+      "/images/products/BM1OZ04.png"
+    ],
+    "description": "Đồng Bạc Kangaroo 1 OZ 2024 với thiết kế Kangaroo truyền thống của Úc, phiên bản 2024 với chất lượng cao.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.3 Chỉ (1 OZ)",
+      "Kích thước": "39mm x 39mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế Kangaroo truyền thống",
+      "Phiên bản 2024",
+      "Trọng lượng 1 OZ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Đồng Bạc Maple Leaf 1 OZ 2024",
+    "code": "BM1OZ05",
+    "weight": "8.3 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-16",
+    "images": [
+      "/images/products/BM1OZ05.png",
+      "/images/products/BM1OZ05.png"
+    ],
+    "description": "Đồng Bạc Maple Leaf 1 OZ 2024 với thiết kế lá phong truyền thống của Canada, phiên bản 2024 với chất lượng cao.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.3 Chỉ (1 OZ)",
+      "Kích thước": "39mm x 39mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế lá phong truyền thống",
+      "Phiên bản 2024",
+      "Trọng lượng 1 OZ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Đồng Bạc American Eagle 1 OZ 2024",
+    "code": "BM1OZ06",
+    "weight": "8.3 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-15",
+    "images": [
+      "/images/products/BM1OZ06.png",
+      "/images/products/BM1OZ06.png"
+    ],
+    "description": "Đồng Bạc American Eagle 1 OZ 2024 với thiết kế đại bàng Mỹ truyền thống, phiên bản 2024 với chất lượng cao.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.3 Chỉ (1 OZ)",
+      "Kích thước": "39mm x 39mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế đại bàng Mỹ truyền thống",
+      "Phiên bản 2024",
+      "Trọng lượng 1 OZ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Đồng Bạc Dragon III 1 OZ 2024",
+    "code": "BM1OZ07",
+    "weight": "8.3 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-14",
+    "images": [
+      "/images/products/BM1OZ07.png",
+      "/images/products/BM1OZ07.png"
+    ],
+    "description": "Đồng Bạc Dragon III 1 OZ 2024 với thiết kế rồng phương Đông, phiên bản thứ III năm 2024 với chất lượng cao.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.3 Chỉ (1 OZ)",
+      "Kích thước": "39mm x 39mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế rồng phương Đông",
+      "Phiên bản Dragon III 2024",
+      "Trọng lượng 1 OZ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Đồng Bạc Dragon Colour III 2024 1 OZ",
+    "code": "BM1OZ08",
+    "weight": "8.3 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-13",
+    "images": [
+      "/images/products/BM1OZ08.png",
+      "/images/products/BM1OZ08.png"
+    ],
+    "description": "Đồng Bạc Dragon Colour III 2024 1 OZ với thiết kế rồng phương Đông có màu sắc, phiên bản thứ III năm 2024 với chất lượng cao.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.3 Chỉ (1 OZ)",
+      "Kích thước": "39mm x 39mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế rồng phương Đông có màu",
+      "Phiên bản Dragon Colour III 2024",
+      "Trọng lượng 1 OZ",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Đồng Bạc Panda 30g 2024",
+    "code": "BM30G01",
+    "weight": "8.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Phú Quý",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-07-12",
+    "images": [
+      "/images/products/BM30G01.png",
+      "/images/products/BM30G01.png"
+    ],
+    "description": "Đồng Bạc Panda 30g 2024 với thiết kế gấu trúc Trung Quốc, phiên bản 2024 với trọng lượng 30g (8 chỉ).",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "8.0 Chỉ (30g)",
+      "Kích thước": "40mm x 40mm x 3mm",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế gấu trúc Trung Quốc",
+      "Phiên bản 2024",
+      "Trọng lượng 30g",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Bạc kỷ niệm 80 năm Quốc khánh 999 5L",
+    "code": "B80QK",
+    "weight": "50.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Phú Quý",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": [
+      "/images/products/B80QK.png",
+      "/images/products/B80QK.png"
+    ],
+    "description": "Chủ tịch Hồ Chí Minh vĩ đại - Biểu tượng thiêng liêng của trí tuệ, bản lĩnh và khát vọng độc lập, tự do. Người chính là ngọn đuốc soi đường, là linh hồn của Cách mạng tháng Tám, là người đã khai sinh ra nước Việt Nam Dân chủ Cộng hoà ngày 2/9/1945 tại Quảng trường Ba Đình lịch sử.\n\nNhằm tôn vinh 80 năm dấu mốc lịch sử trọng đại ấy, Phú Quý trân trọng giới thiệu sản phẩm Bạc thỏi phiên bản giới hạn khắc hoạ chân dung Chủ tịch Hồ Chí Minh trên nền cờ đỏ sao vàng và trống đồng Hà Nội, biểu trưng cho tinh thần bất khuất và sức sống trường tồn của dân tộc Việt Nam.\n\nHy vọng khi cầm trên tay sản phẩm đặc biệt này, bạn sẽ cảm nhận được trọn vẹn niềm tự hào là người Việt Nam, được tiếp nối di sản cha ông và đồng hành cùng dân tộc trong kỷ nguyên vươn mình mạnh mẽ.\n\nSản phẩm được sản xuất giới hạn với số lượng 9999 bản, hàm lượng bạc 999, khối lượng 187,5 gram, định lượng 5 lượng. Có tặng kèm hộp cao cấp và giấy chứng nhận phiên bản giới hạn.\n\nĐược bảo chứng bởi Phú Quý.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "50.0 Chỉ (187.5g)",
+      "Kích thước": "",
+      "Xuất xứ": "Việt Nam",
+      "Bảo hành": "12 tháng",
+      "Chứng nhận": "Giấy chứng nhận chất lượng"
+    },
+    "features": [
+      "Bạc tinh khiết 99.9%",
+      "Thiết kế Chủ Tịch Hồ Chí Minh Vĩ Đại Việt Nam",
+      "Phiên bản 2025",
+      "Trọng lượng 187.5g",
+      "Bảo hành chính hãng 12 tháng",
+      "Hộp đựng chuyên dụng"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Bạch Lân Thịnh Vượng 999 - 1 lượng",
+    "code": "BACHLANTHI21",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": [
+      "/images/products/Bạch Lân Thịnh Vượng .999 Silver Bar.webp"
+    ],
+    "description": "Sản phẩm Bạch Lân Thịnh Vượng 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 22,
+    "name": "Bắc Sư Tử 999 - 1 lượng",
+    "code": "BACSU TU9922",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": [
+      "/images/products/Bắc Sư Tử 1 lượng .999 Silver Bar.webp"
+    ],
+    "description": "Sản phẩm Bắc Sư Tử 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 23,
+    "name": "Ngân Long Quảng Tiến 999 - 1 lượng",
+    "code": "NGANLONGQU23",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["/images/products/Anh1-1536x1536.png"],
+    "description": "Sản phẩm Ngân Long Quảng Tiến 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 24,
+    "name": "Bạc miếng Ancarat 999 - 1 lượng",
+    "code": "BACMIENGAN24",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancaratsilver.com/wp-content/uploads/2025/03/Anh4-2048x2048.png"],
+    "description": "Sản phẩm Bạc miếng Ancarat 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 25,
+    "name": "Bắc Sư Tử 999 - 5 lượng",
+    "code": "BACSU TU99225",
+    "weight": "50.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": [
+      "https://ancarat.vn/web/image/product.product/19/image_1024/B%E1%BA%AFc%20S%C6%B0%20T%E1%BB%AD%201%20l%C6%B0%E1%BB%A3ng%20.999%20Silver%20Bar?unique=4fc7f87"
+    ],
+    "description": "Sản phẩm Bắc Sư Tử 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "50.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 26,
+    "name": "Bạc thỏi 2025 Ancarat 999 - 375 gram",
+    "code": "BACTHOI202525",
+    "weight": "100.000 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancaratsilver.com/wp-content/uploads/2025/05/1-kilo213123c131231c312312311-1305x1536.png"],
+    "description": "Sản phẩm Bạc thỏi 2025 Ancarat 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "100.000 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 27,
+    "name": "Bạc thỏi 2025 Ancarat 999 - 500 gram",
+    "code": "BACTHOI202526",
+    "weight": "133.333 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancaratsilver.com/wp-content/uploads/2025/05/500-1305x1536.png"],
+    "description": "Sản phẩm Bạc thỏi 2025 Ancarat 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "133.333 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 28,
+    "name": "Bạc thỏi 2025 Ancarat 999 - 1000 gram",
+    "code": "BACTHOI202527",
+    "weight": "266.666 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancaratsilver.com/wp-content/uploads/2025/05/1-kilo-1305x1536.png"],
+    "description": "Sản phẩm Bạc thỏi 2025 Ancarat 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "266.666 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 29,
+    "name": "Bạc miếng 2024 Ancarat 999 - 5 lượng",
+    "code": "BACMIENGAN28",
+    "weight": "50.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": [
+      "https://ancaratsilver.com/wp-content/uploads/2025/03/Anh4-1536x1536.png",
+      "https://ancaratsilver.com/wp-content/uploads/2025/03/Anh5-1536x1536.png",
+      "https://ancaratsilver.com/wp-content/uploads/2025/03/Anh3-1536x1536.png",
+      "https://ancaratsilver.com/wp-content/uploads/2025/03/Anh1-2048x2048.png"
+    ],
+    "description": "Sản phẩm Bạc miếng 2024 Ancarat 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "50.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 30,
+    "name": "Bạc miếng 2024 Ancarat 999 - 500 gram",
+    "code": "BACMIENGAN29",
+    "weight": "133.333 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancaratsilver.com/wp-content/uploads/2025/03/Anh4-2048x2048.png"],
+    "description": "Sản phẩm Bạc miếng 2024 Ancarat 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "133.333 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 31,
+    "name": "Bạc miếng 2024 Ancarat 999 - 1000 gram",
+    "code": "BACMIENGAN30",
+    "weight": "266.666 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancaratsilver.com/wp-content/uploads/2025/03/Anh4-1536x1536.png"],
+    "description": "Sản phẩm Bạc miếng 2024 Ancarat 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "266.666 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 32,
+    "name": "Bạc thương hiệu khác 999 (lượng)",
+    "code": "BACTHUONGHIE47",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["/placeholder.svg?height=200&width=200"],
+    "description": "Sản phẩm Bạc thương hiệu khác 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 33,
+    "name": "Father's Day 999 - miếng 5 chỉ",
+    "code": "FATHERSDAY31",
+    "weight": "5.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancaratsilver.com/wp-content/uploads/2025/05/cong-bo-lich-phat-hanh-bac-my-nghe-thang-5-3.jpg"],
+    "description": "Sản phẩm Father's Day 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "5.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 34,
+    "name": "Mother's Day 999 - miếng 5 chỉ",
+    "code": "MOTHERSDAY32",
+    "weight": "5.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": [
+      "https://ancarat.vn/web/image/product.product/14/image_1024/2025%20Mother's%20Day%205%20ch%E1%BB%89%20.999%20Silver%20Bar?unique=76d3781"
+    ],
+    "description": "Sản phẩm Mother's Day 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "5.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 35,
+    "name": "Happy Womans Day 999 - miếng 5 chỉ",
+    "code": "HAPPYWOMAN33",
+    "weight": "5.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2025/02/z6348140761844_f09e5e7dd0b1fd975dad9d030208ae76.jpg"],
+    "description": "Sản phẩm Happy Womans Day 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "5.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },{
+    "id": 36,
+    "name": "Mã đáo thành công 999 - 1 lượng",
+    "code": "MADAOTHANH40",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2025/01/madao-400x400-1.png"],
+    "description": "Sản phẩm Mã đáo thành công 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "100.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 37,
+    "name": "Nam Kim Thành 999 - miếng 1 lượng",
+    "code": "NAMKIMTHAN34",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2024/12/1-2.jpg"],
+    "description": "Sản phẩm Nam Kim Thành 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 38,
+    "name": "Bitcoin 999 - xu 1 lượng",
+    "code": "BITCOIN99935",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2024/12/3-3.jpg"],
+    "description": "Sản phẩm Bitcoin 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 39,
+    "name": "Huế 999 - miếng 1 lượng",
+    "code": "HUE99936",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2024/12/6-2.jpg"],
+    "description": "Sản phẩm Huế 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 40,
+    "name": "Sài Gòn 999 - miếng 1 lượng",
+    "code": "SAIGON99937",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2024/12/5-1-1.jpg"],
+    "description": "Sản phẩm Sài Gòn 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 41,
+    "name": "Hà Nội 999 - miếng 1 lượng",
+    "code": "HANOI99938",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2024/12/7-1-1.jpg"],
+    "description": "Sản phẩm Hà Nội 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 42,
+    "name": "Hoa Khai Phú Quý 999 - miếng 1 lượng",
+    "code": "HOAKHAIPHU39",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2025/01/phuquy-800x800-1.png"],
+    "description": "Sản phẩm Hoa Khai Ancarat 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },{
+    "id": 43,
+    "name": "Mã đáo thành công 999 - 10 lượng",
+    "code": "MADAOTHANH40",
+    "weight": "100.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Thỏi",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["https://ancarat.com/wp-content/uploads/2025/01/madao-400x400-1.png"],
+    "description": "Sản phẩm Mã đáo thành công 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "100.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 44,
+    "name": "12 con giáp 999 - xu 1 chỉ",
+    "code": "12CONGIAP9941",
+    "weight": "1.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Đồng Bạc",
+    "brand": "Ancarat",
+    "inStock": true,
+    "status": "available",
+    "createdDate": "2025-08-03",
+    "images": ["/placeholder.svg?height=200&width=200"],
+    "description": "Sản phẩm 12 con giáp 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "1.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 45,
+    "name": "The Legend of Gióng 999 - miếng 5 chỉ",
+    "code": "THELEGENDOF42",
+    "weight": "5.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-08-03",
+    "images": ["/placeholder.svg?height=200&width=200"],
+    "description": "Sản phẩm The Legend of Gióng 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "5.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 46,
+    "name": "50 năm giải phóng miền Nam 999 - miếng 5 chỉ",
+    "code": "50NAMGIAIPH43",
+    "weight": "5.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-08-03",
+    "images": ["/placeholder.svg?height=200&width=200"],
+    "description": "Sản phẩm 50 năm giải phóng miền Nam 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "5.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 47,
+    "name": "1985 năm khởi nghĩa Hai Bà Trưng 999 - miếng 1 lượng",
+    "code": "1985NAMKHOI44",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-08-03",
+    "images": ["/placeholder.svg?height=200&width=200"],
+    "description": "Sản phẩm 1985 năm khởi nghĩa Hai Bà Trưng 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 48,
+    "name": "50 năm giải phóng miền Nam 999 - miếng 1 lượng",
+    "code": "50NAMGIAIPH45",
+    "weight": "10.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-08-03",
+    "images": ["/placeholder.svg?height=200&width=200"],
+    "description": "Sản phẩm 50 năm giải phóng miền Nam 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "10.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 49,
+    "name": "Hung Kings' Memorial Day 999 - miếng 5 chỉ",
+    "code": "HUNGKINGSMEM46",
+    "weight": "5.0 Chỉ",
+    "sellPrice": 0,
+    "buyPrice": 0,
+    "category": "Bạc Miếng",
+    "brand": "Ancarat",
+    "inStock": false,
+    "status": "out_of_stock",
+    "createdDate": "2025-08-03",
+    "images": ["/placeholder.svg?height=200&width=200"],
+    "description": "Sản phẩm Hung Kings' Memorial Day 999 với chất liệu bạc 999.",
+    "specifications": {
+      "Chất liệu": "Bạc 999",
+      "Trọng lượng": "5.0 Chỉ",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  }
+]
