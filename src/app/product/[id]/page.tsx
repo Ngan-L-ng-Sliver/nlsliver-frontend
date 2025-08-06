@@ -650,7 +650,7 @@ export default function ProductDetailPage() {
                 <p>
                   <span className="font-medium">Hệ thống điểm bán:</span>{" "}
                   <a
-                    href="nganluongsilver.vercel.app/diem-ban"
+                    href="/diem-ban"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 dark:text-blue-400 hover:underline"
