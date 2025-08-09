@@ -337,6 +337,7 @@ export function CartPage() {
                   size="lg"
                   className="w-full h-12 sm:h-14 text-sm sm:text-base bg-blue-600 hover:bg-blue-700 dark:bg-blue-600 dark:hover:bg-blue-500 text-white disabled:opacity-50 disabled:cursor-not-allowed"
                   //disabled={cartItems.length === 0 || !isValid || isSubmitting}
+                  disabled
                 >
                   {isSubmitting ? (
                     <>
