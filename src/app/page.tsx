@@ -341,6 +341,11 @@ export default function HomePage() {
       {/* Hero Section */}
       <HeroSection />
 
+      {/* Order feature notice */}
+      <div className="w-full bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-100 text-center py-2 px-4 text-sm font-medium">
+      Tính năng đặt hàng trên website chưa chính thức mở, vui lòng nhắn qua <a href="https://zalo.me/0763600889" target="_blank" rel="noopener noreferrer" className="underline font-semibold">Zalo 0763 600 889</a> hoặc <a href="https://www.facebook.com/nganluongsilver" target="_blank" rel="noopener noreferrer" className="underline font-semibold">Fanpage</a> để được đặt hàng giá chính xác nhất.
+      </div>
+
       {/* Main Content */}
       <main className="container mx-auto px-2 sm:px-4 py-4 sm:py-6 lg:py-8">
         {/* Mobile Search */}
