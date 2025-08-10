@@ -102,17 +102,17 @@ export function CommonHeader({
                   <Menu className="w-5 h-5" />
                 </Button>
               </SheetTrigger>
-              <SheetContent side="right" className="bg-slate-800 dark:bg-slate-900 text-white">
+              <SheetContent side="right" className="bg-slate-800 dark:bg-slate-900 text-white px-0 pt-0">
                 <SheetHeader>
-                  <SheetTitle className="text-white">Menu</SheetTitle>
+                  <SheetTitle className="text-white px-6 pt-6 pb-2 pl-2 text-lg font-bold">Menu</SheetTitle>
                 </SheetHeader>
-                <nav className="flex flex-col space-y-4 mt-8">
-                  {navItems.map((item) => (
+                <nav className="flex flex-col mt-2">
+                  {navItems.map((item, idx) => (
                     <Link
                       key={item.key}
                       href={item.href}
-                      className={`hover:text-slate-300 dark:hover:text-slate-200 transition-colors ${
-                        isCurrentPage(item.key) ? "text-slate-300 dark:text-slate-200 font-medium" : ""
+                      className={`text-base px-6 py-4 border-b border-slate-700 text-left hover:bg-slate-700 dark:hover:bg-slate-800 transition-colors ${
+                        isCurrentPage(item.key) ? "text-blue-400 font-semibold" : "text-white"
                       }`}
                       onClick={() => setMobileMenuOpen(false)}
                     >

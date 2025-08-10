@@ -20,7 +20,7 @@ export interface Store {
 export const storeLocations: Store[] = [
   {
     id: 1,
-    name: "Ngân Lượng Silver - Cửa hàng Đà Nẵng",
+    name: "Ngân Lượng Silver - Cửa hàng chính tại Đà Nẵng",
     slug: "da-nang",
     address: "45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
     phone: "0763 600 889",

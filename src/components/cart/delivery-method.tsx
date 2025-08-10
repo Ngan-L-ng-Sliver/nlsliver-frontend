@@ -259,7 +259,7 @@ export function DeliveryMethod({ form }: DeliveryMethodProps) {
                   <SelectContent>
                     <SelectItem value="da-nang">
                       <div className="py-1">
-                        <div className="font-medium text-sm">Ngân Lượng Silver - Cửa hàng Đà Nẵng</div>
+                        <div className="font-medium text-sm">Ngân Lượng Silver - Cửa hàng chính tại Đà Nẵng</div>
                         <div className="text-xs text-gray-500">45 Bàu Hạc 8, Thanh Khê, Đà Nẵng</div>
                       </div>
                     </SelectItem>
