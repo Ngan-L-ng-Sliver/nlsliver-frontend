@@ -350,7 +350,7 @@ export default function LienHePage() {
                       </div>
                     </div>
                     <a
-                      href="https://www.facebook.com/nganluongsilver.dailyancaratdanang"
+                      href="https://www.facebook.com/nganluongsilver"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center space-x-1 text-blue-600 dark:text-blue-400 hover:underline flex-shrink-0 ml-2"
@@ -372,7 +372,7 @@ export default function LienHePage() {
                       </div>
                     </div>
                     <a
-                      href="https://www.facebook.com/nganluongsilver"
+                      href="https://www.facebook.com/nganluongsilver.dailyphuquydannang"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center space-x-1 text-blue-600 dark:text-blue-400 hover:underline flex-shrink-0 ml-2"
@@ -394,7 +394,7 @@ export default function LienHePage() {
                       </div>
                     </div>
                     <a
-                      href="https://www.facebook.com/nganluongsilver.dailyphuquydannang"
+                      href="https://www.facebook.com/nganluongsilver.dailyancaratdanang"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center space-x-1 text-blue-600 dark:text-blue-400 hover:underline flex-shrink-0 ml-2"
