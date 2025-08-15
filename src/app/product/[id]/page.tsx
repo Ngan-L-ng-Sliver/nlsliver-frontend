@@ -634,7 +634,7 @@ export default function ProductDetailPage() {
                 </p>
                 <p>
                   <span className="font-medium">Để tránh rủi ro:</span> Từ ngày 01/08/2025, Ngân Lượng Sliver - Đại lý
-                  uỷ quyền của Phú Quý chỉ nhận thanh toán online vào tài khoản duy nhất
+                  uỷ quyền của Phú Quý/Ancarat chỉ nhận thanh toán online vào tài khoản duy nhất
                 </p>
                 <div className="bg-white dark:bg-slate-800 rounded p-3 mt-3 border border-blue-200 dark:border-blue-700">
                   <p>
