@@ -7,8 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Ngân Lượng Silver - Bạc Mỹ Nghệ Cao Cấp",
-  description: "Chuyên cung cấp bạc mỹ nghệ cao cấp, uy tín và chất lượng hàng đầu Việt Nam",
+  title: "Ngân Lượng Silver - Trang Sức, Bạc Miếng, Bạc Thỏi",
+  description: "Chuyên cung cấp bạc mỹ nghệ/bạc tích trữ cao cấp, uy tín và chất lượng cao",
 }
 
 export default function RootLayout({
