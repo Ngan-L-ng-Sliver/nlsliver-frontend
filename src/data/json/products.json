@@ -1301,5 +1301,69 @@
       "Xuất xứ": "Việt Nam"
     },
     "features": ["Bạc tinh khiết 99.9%", "Thiết kế độc đáo", "Phù hợp đầu tư và tích trữ"]
+  },
+  {
+    "id": 50,
+    "name": "Bông bạc SB5417",
+    "code": "SB5417",
+    "weight": "Cái",
+    "sellPrice": 316000,
+    "buyPrice": 0,
+    "category": "Trang Sức",
+    "brand": "Ngân Lượng Silver",
+    "inStock": false,
+    "status": "available",
+    "createdDate": "2025-08-17",
+    "images": ["/images/products/trangsuc/SP000052.jpg"],
+    "description": "Trang Sức Ngân Lượng Silver",
+    "specifications": {
+      "Chất liệu": "Bạc 925",
+      "Trọng lượng": "Cái",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 92.5%", "Thiết kế độc đáo"]
+  },
+  {
+    "id": 51,
+    "name": "Nhẫn bạc SN15904 + Nhẫn bạc SN15905",
+    "code": "SN15904 - SN15905",
+    "weight": "Cái",
+    "sellPrice": 528000,
+    "buyPrice": 0,
+    "category": "Trang Sức",
+    "brand": "Ngân Lượng Silver",
+    "inStock": false,
+    "status": "available",
+    "createdDate": "2025-08-17",
+    "images": ["/images/products/trangsuc/SP000077-78.jpg"],
+    "description": "Trang Sức Ngân Lượng Silver",
+    "specifications": {
+      "Chất liệu": "Bạc 925",
+      "Trọng lượng": "Cái",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 92.5%", "Thiết kế độc đáo"]
+  },
+  {
+    "id": 52,
+    "name": "Bông bạc SB13404",
+    "code": "SB13404",
+    "weight": "Cái",
+    "sellPrice": 374000,
+    "buyPrice": 0,
+    "category": "Trang Sức",
+    "brand": "Ngân Lượng Silver",
+    "inStock": false,
+    "status": "available",
+    "createdDate": "2025-08-17",
+    "images": ["/images/products/trangsuc/SP000077-78.jpg"],
+    "description": "Trang Sức Ngân Lượng Silver",
+    "specifications": {
+      "Chất liệu": "Bạc 925",
+      "Trọng lượng": "Cái",
+      "Xuất xứ": "Việt Nam"
+    },
+    "features": ["Bạc tinh khiết 92.5%", "Thiết kế độc đáo"]
   }
+
 ]

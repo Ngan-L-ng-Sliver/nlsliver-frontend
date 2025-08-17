@@ -225,17 +225,27 @@ function loadProducts(): Product[] {
     // Check if we have updated products in localStorage
     const updatedProducts = localStorage.getItem("ngan-luong-products-updated")
     if (updatedProducts) {
-      const parsed = JSON.parse(updatedProducts)
-      console.log("Loading products from localStorage (updated):", parsed.length)
-      return parsed
+      const parsed = JSON.parse(updatedProducts) as Product[]
+      // Always get 'Ngân Lượng Silver' products from JSON
+      const jsonData = productsData as Product[]
+      const nganLuongSilverProducts = jsonData.filter(p => p.brand === "Ngân Lượng Silver")
+      const otherProducts = parsed.filter(p => p.brand !== "Ngân Lượng Silver")
+      const merged = [...nganLuongSilverProducts, ...otherProducts]
+      console.log("Loading products from localStorage (updated) with Ngân Lượng Silver from JSON:", merged.length)
+      return merged
     }
 
     // Check if we have initial products in localStorage
     const initialProducts = localStorage.getItem("ngan-luong-products-initial")
     if (initialProducts) {
-      const parsed = JSON.parse(initialProducts)
-      console.log("Loading products from localStorage (initial):", parsed.length)
-      return parsed
+      const parsed = JSON.parse(initialProducts) as Product[]
+      // Always get 'Ngân Lượng Silver' products from JSON
+      const jsonData = productsData as Product[]
+      const nganLuongSilverProducts = jsonData.filter(p => p.brand === "Ngân Lượng Silver")
+      const otherProducts = parsed.filter(p => p.brand !== "Ngân Lượng Silver")
+      const merged = [...nganLuongSilverProducts, ...otherProducts]
+      console.log("Loading products from localStorage (initial) with Ngân Lượng Silver from JSON:", merged.length)
+      return merged
     }
 
     // First time load - save initial data to localStorage
