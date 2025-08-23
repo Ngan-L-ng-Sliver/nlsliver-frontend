@@ -45,7 +45,7 @@ export function CommonHeader({
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 sm:space-x-3">
             <Image
-              src="/nl-sliver_logo.jpeg"
+              src="/nls_logo_root2.png"
               alt="Ngân Lượng Silver"
               width={32}
               height={32}
