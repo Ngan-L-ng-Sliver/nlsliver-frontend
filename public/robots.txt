@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Chặn các trang admin hoặc private nếu có
+# Disallow: /admin/
+# Disallow: /private/
+
+Sitemap: https://nganluongsilver.com/sitemap.xml
