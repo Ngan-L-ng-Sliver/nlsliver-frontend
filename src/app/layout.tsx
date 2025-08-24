@@ -78,11 +78,11 @@ export const metadata: Metadata = {
     ICBM: "16.0544, 108.2022",
   },
   icons: {
-    icon: "/avt_nls_phuquy_logo_2_rounded.png",
+    icon: "/favicon.ico",
     shortcut:
-      "/avt_nls_phuquy_logo_2_rounded.png",
+      "/favicon.ico",
     apple:
-      "/avt_nls_phuquy_logo_2_rounded.png",
+      "/favicon.ico",
   },
 }
 
