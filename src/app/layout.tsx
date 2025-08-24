@@ -93,6 +93,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="vi" suppressHydrationWarning>
+      <link rel="icon" type="image/png" href="/favicon.ico"></link>
+      <link rel="icon" type="image/png" sizes="192x192" href="/favicon.ico"></link>
+      <link rel="apple-touch-icon" href="/favicon.ico"></link>
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false} disableTransitionOnChange={false}>
           {children}
