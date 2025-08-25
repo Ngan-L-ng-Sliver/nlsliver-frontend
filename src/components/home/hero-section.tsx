@@ -27,10 +27,10 @@ export function HeroSection() {
             Trang Sức - Bạc Miếng - Bạc Thỏi
           </h1>
           <p className="text-lg sm:text-lg md:text-xl lg:text-2xl text-slate-300 dark:text-slate-400 mb-6 sm:mb-8 animate-fade-in delay-300 max-w-3xl mx-auto">
-            Bộ sưu tập trang sức, bạc miếng, bạc thỏi cao cấp từ Ngân Lượng Silver
+            Đại lý bạc phú quý và ancarat đà nẵng chính thức, chuyên cung cấp bạc phú quý và ancarat tại đà nẵng
           </p>
           <p className="text-base sm:text-lg md:text-xl text-slate-400 dark:text-slate-500 mb-8 sm:mb-12 animate-fade-in delay-500 max-w-2xl mx-auto">
-            Khám phá những sản phẩm bạc tinh xảo, được chế tác bởi những nghệ nhân tài ba với chất lượng 999/925
+            Bạc miếng, bạc thỏi tại đà nẵng chất lượng 999/925, đầu tư bạc tích trữ an toàn
           </p>
 
           {/* Buttons */}

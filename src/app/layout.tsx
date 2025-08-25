@@ -7,24 +7,29 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Bạc Phú Quý Đà Nẵng - Ngân Lượng Silver",
+  title: "Bạc Phú Quý Đà Nẵng - Đại Lý Bạc Phú Quý Đà Nẵng | Ngân Lượng Silver",
   description:
-    "Đại Lý Bạc Phú Quý Đà Nẵng, Chuyên cung cấp dịch vụ đầu tư bạc tích trữ uy tín. Hotline: 0763600889 | Địa Chỉ: 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
+    "Đại Lý Bạc Phú Quý Đà Nẵng chính thức, chuyên cung cấp bạc phú quý đà nẵng, phú quý đà nẵng, đầu tư bạc tích trữ uy tín. Hotline: 0763600889 | Địa Chỉ: 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
   keywords: [
     "bạc phú quý đà nẵng",
+    "phú quý đà nẵng", 
     "đại lý bạc phú quý đà nẵng",
-    "phú quý bạc đà nẵng",
-    "đại lý bạc đà nẵng",
-    "phú quý đà nẵng",
-    "mua bạc đà nẵng",
     "bạc phú quý tại đà nẵng",
+    "mua bạc phú quý đà nẵng",
+    "bán bạc phú quý đà nẵng",
+    "đại lý phú quý đà nẵng",
+    "cửa hàng bạc phú quý đà nẵng",
+    "bạc miếng phú quý đà nẵng",
+    "bạc thỏi phú quý đà nẵng",
     "đầu tư bạc đà nẵng",
     "bạc tích trữ đà nẵng",
-    "bạc miếng đà nẵng",
-    "đầu tư kim loại quý đà nẵng",
     "mua bán bạc đà nẵng",
-    "bạc thỏi đà nẵng",
-    "đầu tư an toàn đà nẵng",
+    "đầu tư kim loại quý đà nẵng",
+    "bạc 999 đà nẵng",
+    "bạc 925 đà nẵng",
+    "ngân lượng silver đà nẵng",
+    "đại lý bạc đà nẵng",
+    "cửa hàng bạc đà nẵng",
     "tích trữ tài sản đà nẵng",
   ].join(", "),
   authors: [{ name: "Đại Lý Bạc Phú Quý Đà Nẵng" }],
@@ -48,7 +53,7 @@ export const metadata: Metadata = {
     siteName: "Đại Lý Bạc Phú Quý Đà Nẵng",
     title: "Bạc Phú Quý Đà Nẵng - Ngân Lượng Silver",
     description:
-      "Đại Lý Bạc Phú Quý Đà Nẵng, Chuyên cung cấp dịch vụ đầu tư bạc tích trữ uy tín. Hotline: 0763600889 | Địa Chỉ: 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
+      "Đại Lý Bạc Phú Quý Đà Nẵng chính thức, chuyên cung cấp bạc phú quý đà nẵng, phú quý đà nẵng, đầu tư bạc tích trữ uy tín. Hotline: 0763600889 | Địa Chỉ: 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
     images: [
       {
         url: "/cover fanpage nls phu quy 2.png",
@@ -61,7 +66,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Bạc Phú Quý Đà Nẵng - Ngân Lượng Silver",
-    description: "Đại Lý Bạc Phú Quý Đà Nẵng, Chuyên cung cấp dịch vụ đầu tư bạc tích trữ uy tín. Hotline: 0763600889 | Địa Chỉ: 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
+    description: "Đại Lý Bạc Phú Quý Đà Nẵng chính thức, chuyên cung cấp bạc phú quý đà nẵng, phú quý đà nẵng, đầu tư bạc tích trữ uy tín. Hotline: 0763600889 | Địa Chỉ: 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
     images: [
       "/cover fanpage nls phu quy 2.png",
     ],

@@ -334,7 +334,7 @@ export default function HomePage() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Đại Lý Bạc Phú Quý Đà Nẵng",
-    description: "Chuyên cung cấp dịch vụ đầu tư bạc tích trữ uy tín, an toàn hàng đầu tại Đà Nẵng. Hotline: 0763600889 | Địa Chỉ: 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
+    description: "Đại lý bạc phú quý đà nẵng chính thức, chuyên cung cấp bạc phú quý tại đà nẵng, phú quý đà nẵng, đầu tư bạc tích trữ uy tín, an toàn hàng đầu tại Đà Nẵng. Hotline: 0763600889 | Địa Chỉ: 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng",
     url: "https://nganluongsilver.com",
     telephone: "+84763600889",
     address: {
@@ -483,6 +483,84 @@ export default function HomePage() {
           </div>
         )}
       </main>
+
+      {/* SEO Content Section */}
+      <section className="py-8 sm:py-12 lg:py-16 bg-white dark:bg-slate-800">
+        <div className="container mx-auto px-2 sm:px-4">
+          <div className="max-w-4xl mx-auto">
+            <div className="prose prose-lg dark:prose-invert max-w-none">
+              <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-slate-800 dark:text-slate-200 mb-6 text-center">
+                Đại Lý Bạc Phú Quý Đà Nẵng - Chuyên Cung Cấp Bạc Phú Quý Tại Đà Nẵng
+              </h2>
+              
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                  <h3 className="text-xl font-semibold text-slate-800 dark:text-slate-200 mb-4">
+                    Bạc Phú Quý Đà Nẵng - Chất Lượng Hàng Đầu
+                  </h3>
+                  <p className="text-slate-600 dark:text-slate-400 mb-4">
+                    Là đại lý bạc phú quý đà nẵng chính thức, chúng tôi tự hào cung cấp những sản phẩm bạc phú quý tại đà nẵng với chất lượng tốt nhất. 
+                    Bạc phú quý đà nẵng tại cửa hàng chúng tôi có độ tinh khiết 999/925, được chế tác tinh xảo theo tiêu chuẩn quốc tế.
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 mb-4">
+                    Phú quý đà nẵng là thương hiệu uy tín trong lĩnh vực bạc mỹ nghệ, và đại lý bạc phú quý đà nẵng chúng tôi cam kết mang đến những sản phẩm chất lượng cao nhất cho khách hàng.
+                  </p>
+                </div>
+                
+                <div>
+                  <h3 className="text-xl font-semibold text-slate-800 dark:text-slate-200 mb-4">
+                    Dịch Vụ Đầu Tư Bạc Tích Trữ Tại Đà Nẵng
+                  </h3>
+                  <p className="text-slate-600 dark:text-slate-400 mb-4">
+                    Với kinh nghiệm nhiều năm trong lĩnh vực đầu tư bạc tích trữ, đại lý bạc phú quý đà nẵng chúng tôi cung cấp dịch vụ tư vấn chuyên nghiệp. 
+                    Bạc miếng phú quý đà nẵng và bạc thỏi phú quý đà nẵng là lựa chọn lý tưởng cho việc đầu tư dài hạn.
+                  </p>
+                  <p className="text-slate-600 dark:text-slate-400 mb-4">
+                    Chúng tôi cũng cung cấp dịch vụ mua bán bạc phú quý đà nẵng với giá cả cạnh tranh và minh bạch, đảm bảo quyền lợi tối đa cho khách hàng.
+                  </p>
+                </div>
+              </div>
+              
+              <div className="mt-8 p-6 bg-slate-50 dark:bg-slate-700 rounded-lg">
+                <h3 className="text-lg font-semibold text-slate-800 dark:text-slate-200 mb-4">
+                  Tại Sao Chọn Đại Lý Bạc Phú Quý Đà Nẵng?
+                </h3>
+                <ul className="space-y-2 text-slate-600 dark:text-slate-400">
+                  <li className="flex items-start">
+                    <span className="text-green-600 dark:text-green-400 mr-2 mt-1">✓</span>
+                    <span>Đại lý bạc phú quý đà nẵng chính thức với đầy đủ giấy chứng nhận</span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-green-600 dark:text-green-400 mr-2 mt-1">✓</span>
+                    <span>Bạc phú quý tại đà nẵng chất lượng 999/925, bảo hành 12 tháng</span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-green-600 dark:text-green-400 mr-2 mt-1">✓</span>
+                    <span>Phú quý đà nẵng - thương hiệu uy tín, được tin cậy</span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-green-600 dark:text-green-400 mr-2 mt-1">✓</span>
+                    <span>Dịch vụ tư vấn đầu tư bạc tích trữ chuyên nghiệp</span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-green-600 dark:text-green-400 mr-2 mt-1">✓</span>
+                    <span>Giá cả cạnh tranh, minh bạch, không phát sinh phí ẩn</span>
+                  </li>
+                </ul>
+              </div>
+              
+              <div className="mt-8 text-center">
+                <p className="text-slate-600 dark:text-slate-400 mb-4">
+                  <strong>Địa chỉ đại lý bạc phú quý đà nẵng:</strong> 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng
+                </p>
+                <p className="text-slate-600 dark:text-slate-400">
+                  <strong>Hotline:</strong> 0763600889 - <strong>Email:</strong> info@nganluongsilver.com
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* FAQ Section */}
       <FAQSection />

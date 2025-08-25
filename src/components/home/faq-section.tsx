@@ -7,21 +7,33 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 const faqData = [
   {
     id: 1,
-    question: "Làm thế nào để kiểm tra độ tinh khiết của bạc?",
+    question: "Đại lý bạc phú quý đà nẵng có chính thức không?",
     answer:
-      "Mỗi sản phẩm đều được điêu khắc tinh xảo và có giấy chứng nhận chất lượng uy tín từ thương hiệu Phú Quý hoặc Ancarat.",
+      "Có, chúng tôi là đại lý bạc phú quý đà nẵng chính thức, chuyên cung cấp bạc phú quý tại đà nẵng với đầy đủ giấy chứng nhận và bảo hành từ thương hiệu Phú Quý.",
   },
   {
     id: 2,
-    question: "Chính sách bảo hành như thế nào?",
+    question: "Bạc phú quý đà nẵng có chất lượng như thế nào?",
     answer:
-      "Tất cả sản phẩm được bảo hành 12 tháng về chất lượng và độ tinh khiết. Hỗ trợ đổi trả trong 7 ngày nếu có lỗi từ nhà sản xuất.",
+      "Bạc phú quý đà nẵng tại cửa hàng chúng tôi có độ tinh khiết 999/925, được điêu khắc tinh xảo và có giấy chứng nhận chất lượng uy tín từ thương hiệu Phú Quý.",
+  },
+  {
+    id: 3,
+    question: "Chính sách bảo hành bạc phú quý đà nẵng như thế nào?",
+    answer:
+      "Tất cả sản phẩm bạc phú quý đà nẵng được bảo hành 12 tháng về chất lượng và độ tinh khiết. Hỗ trợ đổi trả trong 7 ngày nếu có lỗi từ nhà sản xuất.",
   },
   {
     id: 4,
-    question: "Có thể mua bán bạc cũ không?",
+    question: "Có thể mua bán bạc phú quý cũ tại đà nẵng không?",
     answer:
-      "Có, chúng tôi nhận mua lại bạc cũ của Ngân Lượng Silver/Phú Quý/Ancarat với giá niêm yết mới nhất theo từng thương hiệu. Liên hệ để được tư vấn và định giá chính xác.",
+      "Có, đại lý bạc phú quý đà nẵng chúng tôi nhận mua lại bạc phú quý cũ với giá niêm yết mới nhất. Liên hệ để được tư vấn và định giá chính xác.",
+  },
+  {
+    id: 5,
+    question: "Địa chỉ đại lý bạc phú quý đà nẵng ở đâu?",
+    answer:
+      "Đại lý bạc phú quý đà nẵng chúng tôi tọa lạc tại 45 Bàu Hạc 8, Thanh Khê, Đà Nẵng. Hotline: 0763600889 để được tư vấn và chỉ đường.",
   },
 ]
 
@@ -37,10 +49,10 @@ export function FAQSection() {
       <div className="container mx-auto px-2 sm:px-4">
         <div className="text-center mb-8 sm:mb-12">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-slate-800 dark:text-slate-200 mb-4">
-            Câu hỏi thường gặp
+            Câu hỏi thường gặp về Bạc Phú Quý Đà Nẵng
           </h2>
           <p className="text-base sm:text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-            Tìm hiểu thêm về sản phẩm và dịch vụ của chúng tôi
+            Tìm hiểu thêm về đại lý bạc phú quý đà nẵng và dịch vụ bạc phú quý tại đà nẵng
           </p>
         </div>
 
